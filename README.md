@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 6/145 problems  
-**Last Updated:** May 23, 2026
+**Solved:** 7/145 problems  
+**Last Updated:** May 24, 2026
 
 ## Solutions
 
@@ -15,3 +15,4 @@
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/4-product-of-array-except-self.js?raw=true) | May 23, 2026 | Prefix, Suffix |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/9-group-anagrams.js?raw=true) | May 23, 2026 | have a leader key to be put in a hashmap by counting ASCII Index |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/10-missing-number.java?raw=true) | May 23, 2026 | XOR or math formula |
+| 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/5-container-with-most-water.js?raw=true) | May 24, 2026 | - |
