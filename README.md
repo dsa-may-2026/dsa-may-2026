@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 8/145 problems  
-**Last Updated:** May 24, 2026
+**Solved:** 9/145 problems  
+**Last Updated:** May 30, 2026
 
 ## Solutions
 
@@ -17,3 +17,4 @@
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/10-missing-number.java?raw=true) | May 23, 2026 | XOR or math formula |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/5-container-with-most-water.js?raw=true) | May 24, 2026 | - |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/6-trapping-rain-water.java?raw=true) | May 24, 2026 | Pre computation with extra space just like in prefix problem (Product of Array except self) |
+| 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | May 30, 2026 | - |
