@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 9/145 problems  
+**Solved:** 10/145 problems  
 **Last Updated:** May 31, 2026
 
 ## Solutions
@@ -19,3 +19,4 @@
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/6-trapping-rain-water.java?raw=true) | May 24, 2026 | Pre computation with extra space just like in prefix problem (Product of Array except self) |
 | 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | May 30, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/7-rotate-array.java?raw=true) | May 31, 2026 | - |
+| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/11-top-k-frequent-elements.java?raw=true) | May 31, 2026 | Flip the frequency Hashmap so we can lookup/query based on frequency of the nums |
