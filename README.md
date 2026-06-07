@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 11/145 problems  
-**Last Updated:** May 31, 2026
+**Solved:** 12/145 problems  
+**Last Updated:** Jun 7, 2026
 
 ## Solutions
 
@@ -21,3 +21,4 @@
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/7-rotate-array.java?raw=true) | May 31, 2026 | - |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/11-top-k-frequent-elements.java?raw=true) | May 31, 2026 | Flip the frequency Hashmap so we can lookup/query based on frequency of the nums |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/14-majority-element.java?raw=true) | May 31, 2026 | Boyre Moore Voting Algorithm | Leader War for chair |
+| 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/15-majority-element-ii.java?raw=true) | Jun 7, 2026 | - |
