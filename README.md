@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 13/145 problems  
+**Solved:** 14/145 problems  
 **Last Updated:** Jun 7, 2026
 
 ## Solutions
@@ -23,3 +23,4 @@
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/14-majority-element.java?raw=true) | May 31, 2026 | Boyre Moore Voting Algorithm | Leader War for chair |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/15-majority-element-ii.java?raw=true) | Jun 7, 2026 | - |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 7, 2026 | don't count the sequence if prev num is in hashset |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 7, 2026 | - |
