@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 19/146 problems  
+**Solved:** 20/146 problems  
 **Last Updated:** Jun 14, 2026
 
 ## Solutions
@@ -29,3 +29,4 @@
 | 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 14, 2026 | Sorting and start counting from end of finish line |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Jun 14, 2026 | - |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 14, 2026 | - |
+| 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/22-is-subsequence.js?raw=true) | Jun 14, 2026 | - |
