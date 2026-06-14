@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 16/146 problems  
-**Last Updated:** Jun 13, 2026
+**Solved:** 17/146 problems  
+**Last Updated:** Jun 14, 2026
 
 ## Solutions
 
@@ -26,3 +26,4 @@
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 7, 2026 | - |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/12-sort-colors.java?raw=true) | Jun 13, 2026 | 3 pointers, nonZero, nonTwo, and a for loop iterator i |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 13, 2026 | - |
+| 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 14, 2026 | Sorting and start counting from end of finish line |
