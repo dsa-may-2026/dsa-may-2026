@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 23/146 problems  
+**Solved:** 24/146 problems  
 **Last Updated:** Jun 20, 2026
 
 ## Solutions
@@ -33,3 +33,4 @@
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/20-reverse-words-in-a-string.js?raw=true) | Jun 20, 2026 | - |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/21-string-compression.js?raw=true) | Jun 20, 2026 | - |
 | 567 | Permutation in String | Medium | [Link](https://leetcode.com/problems/permutation-in-string/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/25-permutation-in-string.js?raw=true) | Jun 20, 2026 | - |
+| 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/26-min-stack.js?raw=true) | Jun 20, 2026 | - |
