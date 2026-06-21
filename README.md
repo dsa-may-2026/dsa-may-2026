@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 24/146 problems  
-**Last Updated:** Jun 20, 2026
+**Solved:** 26/146 problems  
+**Last Updated:** Jun 21, 2026
 
 ## Solutions
 
@@ -20,17 +20,18 @@
 | 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | May 30, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/7-rotate-array.java?raw=true) | May 31, 2026 | - |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/11-top-k-frequent-elements.java?raw=true) | May 31, 2026 | Flip the frequency Hashmap so we can lookup/query based on frequency of the nums |
-| 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/14-majority-element.java?raw=true) | May 31, 2026 | Boyre Moore Voting Algorithm | Leader War for chair |
+| 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/14-majority-element.java?raw=true) | May 31, 2026 | Boyre Moore Voting Algorithm |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/15-majority-element-ii.java?raw=true) | Jun 7, 2026 | - |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 7, 2026 | don't count the sequence if prev num is in hashset |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 7, 2026 | - |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/12-sort-colors.java?raw=true) | Jun 13, 2026 | 3 pointers, nonZero, nonTwo, and a for loop iterator i |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 13, 2026 | - |
-| 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 14, 2026 | Sorting and start counting from end of finish line |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Jun 14, 2026 | - |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 14, 2026 | - |
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/22-is-subsequence.js?raw=true) | Jun 14, 2026 | - |
+| 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 14, 2026 | Sorting and start counting from end of finish line |
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/20-reverse-words-in-a-string.js?raw=true) | Jun 20, 2026 | - |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/21-string-compression.js?raw=true) | Jun 20, 2026 | - |
 | 567 | Permutation in String | Medium | [Link](https://leetcode.com/problems/permutation-in-string/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/25-permutation-in-string.js?raw=true) | Jun 20, 2026 | - |
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/26-min-stack.js?raw=true) | Jun 20, 2026 | - |
+| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Jun 21, 2026 | - |
