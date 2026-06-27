@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 28/146 problems  
-**Last Updated:** Jun 21, 2026
+**Solved:** 29/146 problems  
+**Last Updated:** Jun 27, 2026
 
 ## Solutions
 
@@ -37,3 +37,4 @@
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Jun 21, 2026 | - |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/27-sliding-window-maximum.java?raw=true) | Jun 21, 2026 | - |
 | 41 | First Missing Positive | Hard | [Link](https://leetcode.com/problems/first-missing-positive/description/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/1782030636088-first-missing-positive.js?raw=true) | Jun 21, 2026 | - |
+| 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 27, 2026 | - |
