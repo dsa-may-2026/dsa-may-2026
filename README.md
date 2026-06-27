@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 30/146 problems  
+**Solved:** 31/146 problems  
 **Last Updated:** Jun 27, 2026
 
 ## Solutions
@@ -39,3 +39,4 @@
 | 41 | First Missing Positive | Hard | [Link](https://leetcode.com/problems/first-missing-positive/description/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/1782030636088-first-missing-positive.js?raw=true) | Jun 21, 2026 | - |
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 27, 2026 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 27, 2026 | - |
+| 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 27, 2026 | - |
