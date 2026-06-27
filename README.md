@@ -40,3 +40,4 @@
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 27, 2026 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 27, 2026 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 27, 2026 | - |
+| 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/36-merge-two-sorted-lists.js?raw=true) | Jun 27, 2026 | - |
