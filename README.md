@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 31/146 problems  
-**Last Updated:** Jun 27, 2026
+**Solved:** 33/146 problems  
+**Last Updated:** Jun 28, 2026
 
 ## Solutions
 
@@ -41,3 +41,5 @@
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 27, 2026 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 27, 2026 | - |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/36-merge-two-sorted-lists.js?raw=true) | Jun 27, 2026 | - |
+| 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/37-reorder-list.js?raw=true) | Jun 28, 2026 | reverse Linked list after mid point, and merge alternatively.
+For odd, first half takes the extra node(if 5 nodes, first half before mid is 3, second half is 2) |
