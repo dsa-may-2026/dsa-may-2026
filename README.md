@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 38/146 problems  
-**Last Updated:** Jun 28, 2026
+**Solved:** 39/146 problems  
+**Last Updated:** Jul 4, 2026
 
 ## Solutions
 
@@ -47,3 +47,4 @@
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/40-find-the-duplicate-number.java?raw=true) | Jun 28, 2026 | - |
 | 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Jun 28, 2026 | - |
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Jun 28, 2026 | - |
+| 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/45-design-browser-history.java?raw=true) | Jul 4, 2026 | - |
