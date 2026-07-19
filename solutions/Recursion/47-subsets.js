@@ -36,3 +36,25 @@ function subsets(nums){
 
   return helper(0)
 }
+
+
+//For loop method
+function subSets(arr) {
+    let trolly = [[]]
+
+    function helper(i, bag) {
+
+        for(let j = i; j<arr.length; j++) {
+            bag.push(arr[j]);
+            trolly.push([...bag])
+            helper(j+1, bag);
+            bag.pop();
+        }
+        
+    }
+
+    helper(0, [])
+    return trolly
+}
+
+subSets([1,2,3])
