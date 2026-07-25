@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 43/146 problems  
-**Last Updated:** Jul 19, 2026
+**Solved:** 40/145 problems  
+**Last Updated:** Jul 25, 2026
 
 ## Solutions
 
@@ -34,9 +34,8 @@
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/21-string-compression.js?raw=true) | Jun 20, 2026 | - |
 | 567 | Permutation in String | Medium | [Link](https://leetcode.com/problems/permutation-in-string/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/25-permutation-in-string.js?raw=true) | Jun 20, 2026 | - |
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/26-min-stack.js?raw=true) | Jun 20, 2026 | - |
-| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Jun 21, 2026 | - |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/27-sliding-window-maximum.java?raw=true) | Jun 21, 2026 | - |
-| 41 | First Missing Positive | Hard | [Link](https://leetcode.com/problems/first-missing-positive/description/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/1782030636088-first-missing-positive.js?raw=true) | Jun 21, 2026 | - |
+| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Jun 21, 2026 | - |
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 27, 2026 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 27, 2026 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 27, 2026 | - |
@@ -45,7 +44,8 @@
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/38-linked-list-cycle.js?raw=true) | Jun 28, 2026 | fast slow or hashmap |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/39-linked-list-cycle-ii.java?raw=true) | Jun 28, 2026 | - |
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/40-find-the-duplicate-number.java?raw=true) | Jun 28, 2026 | - |
-| 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Jun 28, 2026 | - |
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Jun 28, 2026 | - |
+| 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Jun 28, 2026 | - |
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/45-design-browser-history.java?raw=true) | Jul 4, 2026 | - |
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/47-subsets.js?raw=true) | Jul 19, 2026 | July 5th first explanation, July 19th added 3rd solution in the end |
+| 51 | N-Queens | Hard | [Link](https://leetcode.com/problems/n-queens/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/53-n-queens.js?raw=true) | Jul 25, 2026 | - |
