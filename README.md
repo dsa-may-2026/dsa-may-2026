@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 40/145 problems  
+**Solved:** 41/145 problems  
 **Last Updated:** Jul 25, 2026
 
 ## Solutions
@@ -49,3 +49,4 @@
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Linked%20List/45-design-browser-history.java?raw=true) | Jul 4, 2026 | - |
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/47-subsets.js?raw=true) | Jul 19, 2026 | July 5th first explanation, July 19th added 3rd solution in the end |
 | 51 | N-Queens | Hard | [Link](https://leetcode.com/problems/n-queens/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/53-n-queens.js?raw=true) | Jul 25, 2026 | - |
+| 52 | N-Queens II | Hard | [Link](https://leetcode.com/problems/n-queens-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/54-n-queens-ii.js?raw=true) | Jul 25, 2026 | - |
