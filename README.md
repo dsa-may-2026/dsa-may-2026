@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 49/145 problems  
+**Solved:** 50/145 problems  
 **Last Updated:** Jul 26, 2026
 
 ## Solutions
@@ -53,3 +53,4 @@
 | 37 | Sudoku Solver | Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/55-sudoku-solver.js?raw=true) | Jul 25, 2026 | - |
 | 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Jul 26, 2026 | - |
 | 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/57-unique-paths.js?raw=true) | Jul 26, 2026 | - |
+| 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/58-generate-parentheses.js?raw=true) | Jul 26, 2026 | - |
