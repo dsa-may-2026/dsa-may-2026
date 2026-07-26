@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 47/145 problems  
-**Last Updated:** Jul 25, 2026
+**Solved:** 48/145 problems  
+**Last Updated:** Jul 26, 2026
 
 ## Solutions
 
@@ -51,3 +51,4 @@
 | 51 | N-Queens | Hard | [Link](https://leetcode.com/problems/n-queens/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/53-n-queens.js?raw=true) | Jul 25, 2026 | - |
 | 52 | N-Queens II | Hard | [Link](https://leetcode.com/problems/n-queens-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/54-n-queens-ii.js?raw=true) | Jul 25, 2026 | - |
 | 37 | Sudoku Solver | Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/55-sudoku-solver.js?raw=true) | Jul 25, 2026 | - |
+| 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Jul 26, 2026 | - |
