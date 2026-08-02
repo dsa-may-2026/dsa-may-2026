@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 55/145 problems  
+**Solved:** 56/145 problems  
 **Last Updated:** Aug 2, 2026
 
 ## Solutions
@@ -59,3 +59,4 @@
 | 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Aug 2, 2026 | - |
 | 144 | Binary Tree Preorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/62-binary-tree-preorder-traversal.js?raw=true) | Aug 2, 2026 | - |
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Aug 2, 2026 | - |
+| 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 2, 2026 | - |
