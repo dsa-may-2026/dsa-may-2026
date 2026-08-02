@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 52/145 problems  
-**Last Updated:** Aug 1, 2026
+**Last Updated:** Aug 2, 2026
 
 ## Solutions
 
@@ -56,3 +56,4 @@
 | 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/58-generate-parentheses.js?raw=true) | Jul 26, 2026 | - |
 | 60 | Permutation Sequence | Hard | [Link](https://leetcode.com/problems/permutation-sequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/59-permutation-sequence.js?raw=true) | Jul 26, 2026 | - |
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/61-binary-tree-level-order-traversal.js?raw=true) | Aug 1, 2026 | - |
+| 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Aug 2, 2026 | - |
