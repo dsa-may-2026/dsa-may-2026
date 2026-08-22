@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 56/145 problems  
-**Last Updated:** Aug 2, 2026
+**Solved:** 54/145 problems  
+**Last Updated:** Aug 22, 2026
 
 ## Solutions
 
@@ -17,7 +17,6 @@
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/10-missing-number.java?raw=true) | May 23, 2026 | XOR or math formula |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/5-container-with-most-water.js?raw=true) | May 24, 2026 | - |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/6-trapping-rain-water.java?raw=true) | May 24, 2026 | Pre computation with extra space just like in prefix problem (Product of Array except self) |
-| 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | May 30, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/7-rotate-array.java?raw=true) | May 31, 2026 | - |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/11-top-k-frequent-elements.java?raw=true) | May 31, 2026 | Flip the frequency Hashmap so we can lookup/query based on frequency of the nums |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Array/14-majority-element.java?raw=true) | May 31, 2026 | Boyre Moore Voting Algorithm |
@@ -55,8 +54,11 @@
 | 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/57-unique-paths.js?raw=true) | Jul 26, 2026 | - |
 | 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/58-generate-parentheses.js?raw=true) | Jul 26, 2026 | - |
 | 60 | Permutation Sequence | Hard | [Link](https://leetcode.com/problems/permutation-sequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/59-permutation-sequence.js?raw=true) | Jul 26, 2026 | - |
+| 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Jul 26, 2026 | - |
+| 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Recursion/57-unique-paths.js?raw=true) | Jul 26, 2026 | - |
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/61-binary-tree-level-order-traversal.js?raw=true) | Aug 1, 2026 | - |
 | 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Aug 2, 2026 | - |
 | 144 | Binary Tree Preorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/62-binary-tree-preorder-traversal.js?raw=true) | Aug 2, 2026 | - |
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Aug 2, 2026 | - |
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 2, 2026 | - |
+| 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | Aug 22, 2026 | - |
