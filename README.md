@@ -61,4 +61,4 @@
 | 144 | Binary Tree Preorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/62-binary-tree-preorder-traversal.js?raw=true) | Aug 2, 2026 | - |
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Aug 2, 2026 | - |
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 2, 2026 | - |
-| 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.ts?raw=true) | Aug 22, 2026 | - |
+| 0 | All Sorting Algorithms | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Sorting/46-all-sorting-algorithms.js?raw=true) | Aug 22, 2026 | - |
