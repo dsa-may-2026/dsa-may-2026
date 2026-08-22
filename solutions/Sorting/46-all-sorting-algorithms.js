@@ -1,3 +1,5 @@
+// first explained May 30, 2026
+
 function bubbleSort(arr, compare) {
     let n = arr.length
 
@@ -60,3 +62,39 @@ console.log(bubbleSort([6,1,2,3,4,5], (a,b)=>a-b))
 // console.log(selectionSort([9,2,1,4,3,8], (a,b)=>a-b))
 
 // console.log(selectionSort([9,2,1,4,3,8], (a,b)=>b-a))
+
+// Updated with merge sort and quick sort on Aug 22 2026
+
+function mergeSort(arr) {
+    if(arr.length == 1) {
+        return arr;
+    }
+    let mid = Math.floor(arr.length/2)
+
+
+    let left = mergeSort(arr.slice(0, mid))
+    let right = mergeSort(arr.slice(mid))
+    return merge(left, right)
+
+}
+
+
+function merge(a1, a2) {
+    let i = 0, j = 0
+    let res = []
+
+    while(i<a1.length && j <a2.length) {
+        if(a1[i] <= a2[j]) {
+            res.push(a1[i++])
+        } else {
+            res.push(a2[j++])
+        }
+    }
+    while(i<a1.length) {
+        res.push(a1[i++])
+    }
+    while(j<a2.length) {
+        res.push(a2[j++])
+    }
+    return res
+}
