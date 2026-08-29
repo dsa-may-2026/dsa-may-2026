@@ -64,3 +64,4 @@
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 2, 2026 | - |
 | 0 | Implementation of Heap | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Heap/76-implementation-of-heap.js?raw=true) | Aug 22, 2026 | - |
 | 0 | Graph Facebook Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/77-graph-facebook-implementation.js?raw=true) | Aug 29, 2026 | - |
+| 0 | Graph Traversal | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/78-graph-traversal.js?raw=true) | Aug 29, 2026 | - |
