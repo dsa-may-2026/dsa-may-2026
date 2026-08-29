@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 57/145 problems  
+**Solved:** 58/145 problems  
 **Last Updated:** Aug 29, 2026
 
 ## Solutions
@@ -66,3 +66,4 @@
 | 0 | Graph Facebook Implementation | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/77-graph-facebook-implementation.js?raw=true) | Aug 29, 2026 | - |
 | 0 | Graph Traversal | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/78-graph-traversal.js?raw=true) | Aug 29, 2026 | - |
 | 133 | Clone Graph | Medium | [Link](https://leetcode.com/problems/clone-graph/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/79-clone-graph.js?raw=true) | Aug 29, 2026 | - |
+| 994 | Rotting Oranges | Medium | [Link](https://leetcode.com/problems/rotting-oranges/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/80-rotting-oranges.js?raw=true) | Aug 29, 2026 | - |
