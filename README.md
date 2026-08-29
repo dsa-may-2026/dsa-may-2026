@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 58/145 problems  
+**Solved:** 59/145 problems  
 **Last Updated:** Aug 29, 2026
 
 ## Solutions
@@ -67,3 +67,4 @@
 | 0 | Graph Traversal | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/78-graph-traversal.js?raw=true) | Aug 29, 2026 | - |
 | 133 | Clone Graph | Medium | [Link](https://leetcode.com/problems/clone-graph/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/79-clone-graph.js?raw=true) | Aug 29, 2026 | - |
 | 994 | Rotting Oranges | Medium | [Link](https://leetcode.com/problems/rotting-oranges/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/80-rotting-oranges.js?raw=true) | Aug 29, 2026 | - |
+| 200 | Number of Islands | Medium | [Link](https://leetcode.com/problems/number-of-islands/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/81-number-of-islands.js?raw=true) | Aug 29, 2026 | - |
