@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 60/145 problems  
+**Solved:** 61/145 problems  
 **Last Updated:** Aug 30, 2026
 
 ## Solutions
@@ -69,3 +69,4 @@
 | 994 | Rotting Oranges | Medium | [Link](https://leetcode.com/problems/rotting-oranges/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/80-rotting-oranges.js?raw=true) | Aug 29, 2026 | - |
 | 200 | Number of Islands | Medium | [Link](https://leetcode.com/problems/number-of-islands/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/81-number-of-islands.js?raw=true) | Aug 29, 2026 | - |
 | 207 | Course Schedule | Medium | [Link](https://leetcode.com/problems/course-schedule/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/84-course-schedule.js?raw=true) | Aug 30, 2026 | - |
+| 210 | Course Schedule II | Medium | [Link](https://leetcode.com/problems/course-schedule-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/85-course-schedule-ii.js?raw=true) | Aug 30, 2026 | - |
